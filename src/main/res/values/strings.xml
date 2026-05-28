@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ZakatPro Gold</string>
+    <string name="title_zakat_gold_pro">Zakat Gold Pro</string>
+    <string name="hint_gold_weight">Gold Weight (grams)</string>
+    <string name="hint_gold_price">Current Gold Price (RM/gram)</string>
+    <string name="label_select_gold_type">Select Gold Type</string>
+    <string name="label_keep_85g">Keep (85g)</string>
+    <string name="label_wear_200g">Wear (200g)</string>
+    <string name="btn_calculate_zakat">Calculate Zakat</string>
+    <string name="label_calculation_result">Calculation Result</string>
+    <string name="placeholder_results">Results will appear here</string>
+    <string name="menu_about">About</string>
+    <string name="about_title">About This App</string>
+    <string name="about_details">Developed by: Nur Auni Karmila binti Khairol Azmi\n Student Number: 2025119671\nProgramme Code: CDCS2515A\n</string>
+    <string name="about_detail">Version: 1.0\nThis app helps you calculate zakat for gold based on the weight and current price.</string>
+    <string name="about_url">https://github.com/2025119671-art</string>
+    <string name="btn_back">Back</string>
+    <string name="instructions_text">Instructions: Enter your gold weight and the current market price, then select your gold type.</string>
+    <string name="menu_share">Share</string>
+    <string name="app_url">https://github.com/2025119671-art/ZakatProGold</string>
+</resources>
